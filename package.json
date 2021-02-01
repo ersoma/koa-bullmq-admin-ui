@@ -1,0 +1,24 @@
+{
+  "name": "koa-bullmq-admin-ui",
+  "version": "1.0.0",
+  "description": "Koa 2 middleware that creates a UI to interact with the BullMQ message queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "bullmq",
+    "ui"
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ersoma/koa-bullmq-admin-ui"
+  },
+  "bugs": {
+    "url": "https://github.com/ersoma/koa-bullmq-admin-ui/issues"
+  },
+  "homepage": "https://github.com/ersoma/koa-bullmq-admin-ui#readme",
+  "author": "Soma Erdelyi <info@somaerdelyi.net> (https://somaerdelyi.net/)",
+  "license": "MIT"
+}
